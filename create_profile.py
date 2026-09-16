@@ -1,0 +1,3 @@
+from speaker_verify import create_voice_profile
+
+create_voice_profile()

@@ -1,0 +1,28 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Temporary audio recordings
+temp/
+temp_chunks/
+mic_recordings/
+*.wav
+
+# Model weights and personal voice profiles
+*.pth
+*.pt
+*.npy
+
+# Databases
+*.db
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE
+.vscode/
